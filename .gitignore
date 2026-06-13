@@ -6,3 +6,5 @@ __pycache__/
 .vscode/
 repositories/
 config.py
+architecture_report.pdf
+repository_graph.html
